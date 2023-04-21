@@ -6,5 +6,6 @@ namespace PacSensors.Repositories
     {
         Task<GP_INST> GetById(int id);
         Task<IEnumerable<GP_INST>> GetByDateTime(string dateTime);
+        Task<GP_INST> GetLast();
     }
 }
