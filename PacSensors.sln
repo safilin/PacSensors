@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PacSensors", "PacSensors\PacSensors.csproj", "{C9225E65-AC1C-4BEF-8FA4-65A08032C883}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9225E65-AC1C-4BEF-8FA4-65A08032C883}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9225E65-AC1C-4BEF-8FA4-65A08032C883}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9225E65-AC1C-4BEF-8FA4-65A08032C883}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9225E65-AC1C-4BEF-8FA4-65A08032C883}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B7A6DFF-A08A-49C3-84AA-1E7859A75CF5}
+	EndGlobalSection
+EndGlobal
